@@ -1,2 +1,3 @@
 One operating system function is single user. This is beneficial because it supports one user at a time, easy to use, and less change of damaging hardware. 
 Some disadvantages are that idle times are higher, no multitasking interface, and takes longer time to complete. I haven't used a single user interface, because I enjoy my Laptop.
+Memory Managment is an operatin system function. This function is very important because it controls the memory witinin the operation system. If there is no operating system, the system will not work preoperly. 
